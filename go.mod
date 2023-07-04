@@ -1,4 +1,4 @@
-module prompushgw
+module github.com/saleniex/prompushgw
 
 go 1.20
 
